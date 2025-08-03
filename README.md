@@ -17,4 +17,4 @@ Sistema de Registro 2
 | q3         | q4  | q4    | q4    | q4       | q6   | q6   |
 | q4+        | q4  | q4    | q4    | q4       | q6   | q6   |
 | q5+        | q5  | q5    | q6    | q6       | q6   | q6   |
-| q6 (rech)  | q6  | q6    | q6    | q6       | q6   | q6   |
+| q6         | q6  | q6    | q6    | q6       | q6   | q6   |
